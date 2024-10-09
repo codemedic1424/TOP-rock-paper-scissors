@@ -42,14 +42,9 @@ let computerScore = 0
 
 function playRound(computerChoice, humanChoice) {
 // Add missing Logic Code here
-
-    if (humanChoice == "Rock" && computerChoice == "Rock") {
-        console.log("Draw!")
-    } else if (humanChoice == "Rock" && computerChoice == "Paper") {
-        console.log(`You Win! ${humanChoice} beats ${computerChoice}`)
-    }
 }
 
-
+const humanSelection    = getHumanChoice()
+const computerSelection = getComputerChoice()
 
 playRound(humanSelection, computerSelection)
