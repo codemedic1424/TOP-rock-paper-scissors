@@ -21,6 +21,10 @@ Day Two Complete.
 Day three begin: 
     Step 5. Game play logic (for one round) complete and ready for testing. Testing complete. removal of input validation per curriculum advisor. 
 
-    Step 6
+    Step 6 - complete - after several hours of sandboxing and assistance from community and curriculum advisors proved beneficial. 
+    
+    "It's not pretty, but it works."
+
+    Project complete - Enjoy
 
 
