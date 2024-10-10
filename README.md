@@ -14,6 +14,13 @@ Day Two Begin: Step 3.
 
     Step 4 complete. S4 was the creation of two variables to track player scores. Scores start at 0.
 
-    Step 5: Game Logic
+    Step 5 complete. Single round logic complete. S5 was a challenge. Fatigue/burnout was a factor. After night break and sleep, logic became clear. 
+    
+Day Two Complete. 
+    
+Day three begin: 
+    Step 5. Game play logic (for one round) complete and ready for testing. Testing complete. removal of input validation per curriculum advisor. 
+
+    Step 6
 
 
